@@ -2,7 +2,7 @@ streamlit
 streamlit-lottie
 numpy
 librosa
-tensorflow
+tensorflow==2.12.0
 matplotlib
 seaborn
 pandas

@@ -1,17 +1,4 @@
-# music_genre_app.py
 
-import streamlit as st
-import numpy as np
-import librosa
-import tensorflow as tf
-from tensorflow.image import resize
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
-import os
-import librosa.display
-import requests
-from streamlit_lottie import st_lottie
 
 # music_genre_app.py
 

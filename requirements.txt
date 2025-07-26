@@ -1,0 +1,9 @@
+streamlit
+streamlit-lottie
+numpy
+librosa
+tensorflow
+matplotlib
+seaborn
+pandas
+requests
